@@ -9,4 +9,4 @@ resources:
 - deny_all_authorizationpolicy.yaml
 - gateway_authorizationpolicy.yaml
 - kubeflow-cluster-roles.yaml
-- monitoring/
+# - monitoring/
